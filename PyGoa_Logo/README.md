@@ -6,11 +6,10 @@ Design a logo for PyGoa
 
 Steps to follow:
 1. Fork this repository
-2. Clone it
-3. Create a folder with name as *Your_Name* inside the folder [logos](logos).
-4. Add the logo in the folder you created.
-5. Submit a PR
+2. Add folder named as Your_Name inside the [logos folder](logos).
+3. In the folder you created add the vector files and PNG of the logo
+4. Send a PR for [Issue#2](https://github.com/PyGoa/pygoa.github.io/issues/2)
 
-The best logo will be selected as our official logo
+The best logo will be selected based on votes as our Official logo.
 
-All other submissions will be displayed here.
+All other submissions will remain in this repository.
